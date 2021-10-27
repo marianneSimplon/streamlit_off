@@ -1,7 +1,5 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import plotly.express as px
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
-import matplotlib.pyplot as plt
+streamlit==1.1.0
+pandas==1.2.4
+numpy==1.20.1
+plotly==5.3.1
+matplotlib==3.3.4
