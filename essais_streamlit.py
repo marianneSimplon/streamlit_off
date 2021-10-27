@@ -34,3 +34,4 @@ st.plotly_chart(fig6)
 
 fig7 = px.histogram(data, x="ingredients_that_may_be_from_palm_oil_n", color="saturated_fat_in_g").update_xaxes(categoryorder="category ascending")
 st.plotly_chart(fig7)
+
